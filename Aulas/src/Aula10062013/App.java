@@ -8,7 +8,6 @@ public class App {
         f01.enfileirar("Fulano");
         f01.enfileirar("Beltrano");
         f01.enfileirar("Josias");
-        
                 
         Fila f02 = new Fila();
         f02.enfileirar("Maria");
